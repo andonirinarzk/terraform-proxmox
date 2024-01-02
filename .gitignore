@@ -2,8 +2,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,git,terraform
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,linux,git,terraform
 
-### ARA ###
-*.000
 
 ### Git ###
 # Created by git for backups. To disable backups in Git:
@@ -94,3 +92,6 @@ terraform.rc
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+### ARA ###
+*.000
+import/*

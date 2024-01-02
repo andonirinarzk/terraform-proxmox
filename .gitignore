@@ -2,6 +2,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,git,terraform
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,linux,git,terraform
 
+### ARA ###
+*.000
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
